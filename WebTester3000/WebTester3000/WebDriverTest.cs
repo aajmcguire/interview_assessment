@@ -99,8 +99,6 @@ namespace WebTester3000
             });
         }
 
-        [Test]
-
         [OneTimeTearDown]
         public void DriverCleanup()
         {
