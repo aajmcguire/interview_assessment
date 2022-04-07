@@ -106,7 +106,5 @@ namespace WebTester3000
         {
             _driver.Quit();
         }
-        
-        // Working on collection of elements
     }
 }
